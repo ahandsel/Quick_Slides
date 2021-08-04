@@ -1,11 +1,23 @@
 # Quick_Slides is a repo for quick HTML/ Markdown based slides
 
-## Tools Used
+## Slidev
 
-[Home | Slidev](https://sli.dev/)
+Links:
+* [Slidev](https://sli.dev/)
+* [@slidev/cli - npm](https://www.npmjs.com/package/@slidev/cli)
+* 
 
+### Commmands for Sli.dev
 ```bash
+
+npm install --save @slidev/cli
+
+npm i gh-pages
+
 npm init slidev
+
+slidev build --base /Quick_Slides/lewagon_cybozu/
+ && cp -R ./img ./dist/img && node ./modIndex.js && gh-pages -d dist
 ```
 
 ## Welcome to [Slidev](https://github.com/slidevjs/slidev)!
