@@ -3,16 +3,12 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
-    "export": "slidev export",
-    "pub": "slidev build --base /Quick_Slides/Cybozu_Intro/ && cp ./404.html ./dist/404.html && cp -R ./img ./dist/img && node ./modIndex.js && gh-pages -d dist"
+    "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.19.9",
+    "@slidev/cli": "^0.22.7",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "gh-pages": "^3.2.3",
-    "light-icons": "^1.0.9",
-    "node-html-parser": "^3.3.4",
     "slidev-theme-light-icons": "^1.0.2"
   },
   "name": "cybozu_intro"
