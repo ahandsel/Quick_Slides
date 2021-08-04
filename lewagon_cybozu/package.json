@@ -9,6 +9,7 @@
     "@slidev/cli": "^0.22.7",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
+    "gh-pages": "^3.2.3",
     "slidev-theme-light-icons": "^1.0.2"
   },
   "name": "cybozu_intro"
