@@ -1,11 +1,21 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slidev Template for Github pages
 
-To start the slide show:
+This is a Slidev template for deploying to github pages.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+1. The repository page will also be routed correctly
+2. Reloading in the middle of a page doesn't cause any problems
+3. You can build and deploy with a single command
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Settings
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+1. If you are deploying to a repository page, set the repo name in line 7 of `404.html`.
+
+2. If you want to deploy to the repository page as well, set the repo name of the pub command defined in package.json.
+
+Install
+```bash
+npm i @slidev/cli
+npm run build
+```
+
+[SlidevをGitHub Pagesで公開](https://zenn.dev/shu1007/articles/c65dee06b29772)
