@@ -17,5 +17,4 @@ Install
 npm i @slidev/cli
 npm run build
 ```
-
 [SlidevをGitHub Pagesで公開](https://zenn.dev/shu1007/articles/c65dee06b29772)

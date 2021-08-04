@@ -10,7 +10,7 @@
     "@slidev/cli": "^0.19.9",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "gh-pages": "^3.2.0",
+    "gh-pages": "^3.2.3",
     "node-html-parser": "^3.3.4",
     "slidev-theme-light-icons": "^1.0.2"
   },
