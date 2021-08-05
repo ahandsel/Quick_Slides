@@ -2,7 +2,7 @@
 theme: light-icons
 layout: intro
 # image: 'https://source.unsplash.com/collection/94734566/1920x1080'
-image: './img/Tokyo_Morning.png'
+image: './public/Tokyo_Morning.png'
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
@@ -34,7 +34,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: image-right
-image: './img/seb_design.png'
+image: './public/seb_design.png'
 ---
 
 # Sebastien Breuilles
@@ -61,7 +61,7 @@ I Join Cybozu because this company is not a "standard Japanese" company. I mean 
 
 ---
 layout: image-right
-image: './img/ami.png'
+image: './public/ami.png'
 equal: false
 left: false
 ---
@@ -88,7 +88,7 @@ I joined Cybozu because I felt it was ideal to pursue my dream to become an engi
 
 ---
 layout: image-right
-image: './img/nia_design.png'
+image: './public/nia_design.png'
 equal: false
 left: false
 ---
@@ -114,7 +114,7 @@ Working with a team can use own skills and also can help each other! I think it 
 
 ---
 layout: image-right
-image: './img/genji_round.png'
+image: './public/genji_round.png'
 equal: false
 left: false
 ---
