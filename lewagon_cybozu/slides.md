@@ -2,7 +2,7 @@
 theme: light-icons
 layout: intro
 # image: 'https://source.unsplash.com/collection/94734566/1920x1080'
-image: './public/Tokyo_Morning.png'
+image: './Tokyo_Morning.png'
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
@@ -34,7 +34,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: image-right
-image: './public/seb_design.png'
+image: './seb_design.png'
 ---
 
 # Sebastien Breuilles
@@ -61,7 +61,7 @@ I Join Cybozu because this company is not a "standard Japanese" company. I mean 
 
 ---
 layout: image-right
-image: './public/ami.png'
+image: './ami.png'
 equal: false
 left: false
 ---
@@ -88,7 +88,7 @@ I joined Cybozu because I felt it was ideal to pursue my dream to become an engi
 
 ---
 layout: image-right
-image: './public/nia_design.png'
+image: './nia_design.png'
 equal: false
 left: false
 ---
@@ -114,7 +114,7 @@ Working with a team can use own skills and also can help each other! I think it 
 
 ---
 layout: image-right
-image: './public/genji_round.png'
+image: './genji_round.png'
 equal: false
 left: false
 ---
@@ -176,3 +176,44 @@ We support engineers to customize & integrate Kintone in their workplace!
   - Promote customizations & extensions!  
   - Create useful tutorials!
   - Host in-person & virtual coding workshops!  
+
+---
+layout: two-cols
+---
+
+  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+    <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
+      Global Developer Advocate Position <light-icon icon="wand" />
+    </a>
+  </div>
+
+Join our Developer Advocacy team  
+where we support engineers to customize & integrate Kintone in their workplace  
+by hosting workshops & creating documentation!
+
+  <div class="text-primary dark:text-primary pb-2 pt-4">
+    <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
+      Check out the position at: bit.ly/3lnYDdw
+    </a>
+  </div>
+
+::left::
+
+## Requirements
+<br>
+
+  - English at a native or bilingual proficiency
+  - Japanese at a full professional proficiency
+  - 1+ year of programming experience at a company
+  - *or* graduating from a Coding Bootcamp program
+
+::right::
+
+## Nice To Haves
+<br>
+
+  - Written articles for developers
+  - Involved in hosting workshops for developers
+  - Data analysis
+
+![bit.ly/3lnYDdw](/qr_code.png)
