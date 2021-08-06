@@ -137,59 +137,100 @@ LinkedIn  -  [genji-fujimori-smith](https://www.linkedin.com/in/genji-fujimori-s
 GitHub  -  [ahandsel](https://github.com/ahandsel/)  
 
 ---
-layout: two-cols
+layout: intro
+image: './Tokyo_Night.png'
 ---
+
+<div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
+  <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;" >
+    Joining Cybozu <i class="light-icon-user-plus"></i> &nbsp;
+  </span>
+  <div><br><br></div>
+  <div>
+  <p>
+    Full job listings at the Japanese offices: &nbsp; <a href="https://cybozu.co.jp/company/job/recruitment/">cybozu.co.jp/company/job/</a>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <br><br>
+    We are also hiring <a href="https://www.kintone.com/careers/">Sales Engineers</a> at our US offices as well!
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    </p>
+  </div>
+</div>
+
+---
+layout: image-right
+image: './KDP_Bar.png'
+equal: false
+left: false
+---
+
   <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Global Developer Advocate Position <light-icon icon="wand" />
+      Global Developer Advocate Role <i class="light-icon-pencil"></i>
     </a>
   </div>
-
-<br>
-
-Join the team behind the Kintone Developer Program!  
-We support engineers to customize & integrate Kintone in their workplace!
-
-
-  <div class="text-primary dark:text-primary pb-2 pt-4">
-    <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Check out the position at: bit.ly/3lnYDdw
-    </a>
+  <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 1.6;">
+    We support engineers to customize & develop on Kintone!
   </div>
 
-::left::
+### Mission?
+Help developers around the world get excited to use & create on Kintone!
 
-## Prerequisite
-<br>
+### How?
 
-  - Fluent in both English & Japanese  
-  - Likes using the Kintone platform  
-  - Interested in teaching coding  
-  - Can talk about what they are passionate for  
-
-::right::
-
-## Overview
-<br>
-
-  - Help developers around the world get excited to use & create on Kintone!  
-  - Promote customizations & extensions!  
+  - Write comprehensive API documentation
+  - Develop customizations with latest tech trends
   - Create useful tutorials!
   - Host in-person & virtual coding workshops!  
+  - Sponsor & mentor in hackathons!
+
+  <!-- We support engineers in customizing & integrating Kintone in their workplace!-->
 
 ---
-layout: two-cols
+layout: center-image
+image: './kdp_collage.png'
+---
+
+  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+    <div><br></div>
+    <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
+      Global Developer Advocate Role <i class="light-icon-pencil"></i>
+    </a>
+    <div><br></div>
+  </div>
+
+---
+layout: image-right
+image: './KDP_Bar_2.png'
+equal: false
+left: false
 ---
 
   <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Global Developer Advocate Position <light-icon icon="wand" />
+      Global Developer Advocate Role <i class="light-icon-pencil"></i>
     </a>
   </div>
+  <!-- <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 1.6;">
+    We support engineers to customize & develop on Kintone!
+  </div> -->
 
-Join our Developer Advocacy team  
-where we support engineers to customize & integrate Kintone in their workplace  
-by hosting workshops & creating documentation!
+<br>
+
+### Requirements
+
+  - Fluent in English (*bilingual*) & Japanese (*professional*)
+  - 1+ year of coding experience at a company
+  - *or* graduated from a Coding Bootcamp
+
+<br>
+
+### Nice To Haves
+  - Written & published technical tutorials
+  - Managed/ hosted technical workshops
+  - Experience in data analysis for website analytics
+
+<br>
 
   <div class="text-primary dark:text-primary pb-2 pt-4">
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
@@ -197,23 +238,60 @@ by hosting workshops & creating documentation!
     </a>
   </div>
 
+---
+layout: two-cols
+---
+
+  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+    <a href="https://cybozu.co.jp/company/job/recruitment/newgrad/systemconsulting.html">
+      Other Engineering Positions <i class="light-icon-sitemap"></i>
+    </a>
+  </div>
+
 ::left::
 
-## Requirements
-<br>
+## Technical Engineer <i class="light-icon-tool"></i>
+### Technical Engineering Division
 
-  - English at a native or bilingual proficiency
-  - Japanese at a full professional proficiency
-  - 1+ year of programming experience at a company
-  - *or* graduating from a Coding Bootcamp program
+This division provides technical support to our partner firms with everything from servers, networks, databases, backups, and integrations.
+
+Technical Engineering is a great role for those who want to work with backend technologies, stress test our products & client setup, and work as a bridge between the Tokyo & US offices.
 
 ::right::
 
-## Nice To Haves
+## Developer Tools Engineer <i class="light-icon-tools"></i>
+### System Development Division
+
+This division creates tools that external developers use to build integrations and customizations on Cybozu's products.
+They oversee our products' various SDKs such as [js-sdk](https://github.com/kintone/js-sdk), & [kintone-ui-component](https://github.com/kintone-labs/kintone-ui-component).
+
+Developer Tools Engineering is a great role for those who want to build everything from VS Code extensions to CLI tools.
+
+---
+layout: image-right
+image: './SC_Bar.png'
+equal: false
+left: false
+---
+
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Want to learn more? <i class="light-icon-bolt"></i>
+</div>
+
 <br>
 
-  - Written articles for developers
-  - Involved in hosting workshops for developers
-  - Data analysis
+Check out this Japanese article to learn more about the Cybozu's System Consulting Department and the aforementioned engineering positions:
 
-![bit.ly/3lnYDdw](/qr_code.png)
+<div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 2;">
+  <a href="https://www.wantedly.com/companies/cybozu/post_articles/241621">
+    サイボウズのシステムコンサルティング本部とは？
+  </a>
+</div>
+
+  Coding bootcamp alumni are generally recommended to apply to Cybozu's 新卒採用 (*しんそつさいよう*) -- new graduate hiring track.
+
+  <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 1.6;">
+    <a href="https://cybozu.co.jp/company/job/recruitment/newgrad/">
+      Learn more about the new graduate hiring track at: cybozu.co.jp/company/job/recruitment/newgrad/
+    </a>
+  </div>
