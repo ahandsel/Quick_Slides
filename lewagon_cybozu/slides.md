@@ -179,7 +179,7 @@ Help developers around the world get excited to use & create on Kintone!
 ### How?
 
   - Write comprehensive API documentation
-  - Develop customizations with latest tech trends
+  - Develop customizations with the latest tech trends
   - Create useful tutorials!
   - Host in-person & virtual coding workshops!  
   - Sponsor & mentor in hackathons!
@@ -280,7 +280,7 @@ left: false
 
 <br>
 
-Check out this Japanese article to learn more about the Cybozu's System Consulting Department and the aforementioned engineering positions:
+Check out this Japanese article to learn more about Cybozu's System Consulting Department and the aforementioned engineering positions:
 
 <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 2;">
   <a href="https://www.wantedly.com/companies/cybozu/post_articles/241621">
