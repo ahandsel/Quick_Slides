@@ -29,7 +29,11 @@ image: './Tokyo_Morning.png'
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+Hello everyone, Thank you for having us over!
+
+First, we will do a quick introductions.
+Then I can go over a few engineering positions at Cybozu.
+Finally, we will go through our first month experiences & answer your questions
 -->
 
 ---
