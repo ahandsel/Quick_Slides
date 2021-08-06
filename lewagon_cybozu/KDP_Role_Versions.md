@@ -27,7 +27,7 @@ We support engineers to customize & integrate Kintone in their workplace!
   - English at a native or bilingual proficiency
   - Japanese at a full professional proficiency
   - 1+ year of coding experience at a company
-  - *or* graduated from a Coding Bootcamp
+  - *or* graduated from a coding bootcamp
 
 ::right::
 
