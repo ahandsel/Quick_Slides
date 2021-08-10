@@ -38,8 +38,7 @@ npm run dev
 
 
 ```bash
-slidev build --base /Quick_Slides/lewagon_cybozu/
- && cp -R ./img ./dist/img && node ./modIndex.js && gh-pages -d dist
+slidev build --base /Quick_Slides/lewagon_cybozu/ && node ./modIndex.js && gh-pages -d dist
 ```
 
 ### Customizations & Themes
