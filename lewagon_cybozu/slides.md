@@ -223,9 +223,8 @@ left: false
 
 ### Requirements
 
-  - Fluent in English (*bilingual*) & Japanese (*professional*)
-  - 1+ year of coding experience at a company
-  - *or* graduated from a Coding Bootcamp
+  - Fluent in English & Japanese
+  - 1+ year of coding experience at a company <br> *or* graduated from a Coding Bootcamp
 
 <br>
 
