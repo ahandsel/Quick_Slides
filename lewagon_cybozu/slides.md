@@ -298,3 +298,39 @@ Check out this Japanese article to learn more about Cybozu's System Consulting D
       Learn more about the new graduate hiring track at: cybozu.co.jp/company/job/recruitment/newgrad/
     </a>
   </div>
+
+---
+
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Want to learn more? <i class="light-icon-bolt"></i>
+</div>
+
+Check out the following websites to learn more about what Cybozu is cooking up!  
+
+We have hiring events and tech Meetups on a monthly basis here in Japan!
+We also host JavaScript workshops in English.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>English Tech Blog</th>
+      <th>Japanese Tech Blog</th>
+      <th>English Events</th>
+      <th>Japanese Events</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="25%"><a href="https://blog.kintone.io/">blog.kintone.io</a></td>
+      <td width="25%"><a href="https://tech.cybozu.io/">tech.cybozu.io</a></td>
+      <td width="25%"><a href="http://bit.ly/KDP_Events">bit.ly/KDP_Events</a></td>
+      <td width="25%"><a href="https://cybozu.connpass.com/">cybozu.connpass.com</a></td>
+    </tr>
+    <tr>
+      <td><img src="/QR_Code_Blog_EN.png" alt="QR Code for blog.kintone.io"></td>
+      <td><img src="/QR_Code_Blog_JP.png" alt="QR Code for tech.cybozu.io"></td>
+      <td><img src="/QR_Code_Event_EN.png" alt="QR Code for Meetup.com/Kintone-Developers/"></td>
+      <td><img src="/QR_Code_Event_JP.png" alt="QR Code for cybozu.connpass.com"></td>
+    </tr>
+  </tbody>
+</table>
