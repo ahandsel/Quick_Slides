@@ -118,6 +118,25 @@ Working with a team can use own skills and also can help each other! I think it 
 
 ---
 layout: image-right
+image: './sam.png'
+equal: false
+left: false
+---
+
+# Sam Kuo
+## Product Designer 🇹🇼
+  - Studied Political Science in Taiwan 📖
+  - Studied design in Japan 🎨
+  - Based in Tokyo 🗼
+
+Favorite Movie?  
+  - Harry Potter! ❤️
+
+Tip For New Engineers:  
+  - Have fun! Accept challenges and be open to all the possibilities!
+
+---
+layout: image-right
 image: './genji_round.png'
 equal: false
 left: false
