@@ -14,5 +14,8 @@
     "node-html-parser": "^3.3.4",
     "slidev-theme-light-icons": "^1.0.2"
   },
-  "name": "lewagon_cybozu"
+  "name": "lewagon_cybozu",
+  "devDependencies": {
+    "playwright": "^1.14.1"
+  }
 }
